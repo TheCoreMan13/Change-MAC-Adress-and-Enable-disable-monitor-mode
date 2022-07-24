@@ -1,4 +1,4 @@
-# Change-MAC-Adress-and-Enable-disable-monitor-mode
+# Change-MAC-Adress-and-Enable-or-disable-monitor-mode
 Bash scripts for automate changing MAC adress and Enable/Disable monitor mode in Kali Linux for wireles adaptor.
 
 # How it works
